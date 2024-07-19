@@ -14,8 +14,8 @@ document.addEventListener('DOMContentLoaded', () => {
         { name: 'card3', img: 'images/glasses.png' },
         { name: 'card4', img: 'images/tt.png' },
         { name: 'card4', img: 'images/tt.png' },
-        { name: 'card5', img: 'images/success.png' },
-        { name: 'card5', img: 'images/success.png' },
+        { name: 'card5', img: 'images/png-clipart-know-your-meme-andras-arato-hungary-meme-hand-meme-thumbnail.png.png' },
+        { name: 'card5', img: 'images/png-clipart-know-your-meme-andras-arato-hungary-meme-hand-meme-thumbnail.png.png' },
         // ...add more pairs as needed
     ];
 
